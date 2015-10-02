@@ -1,0 +1,35 @@
+{
+  "name": "hack-night-website",
+  "version": "1.0.0",
+  "description": "The website for Friday Night Hacks",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Friday-Night-Hacks/hack-night-website.git"
+  },
+  "author": "Friday Night Hacks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Friday-Night-Hacks/hack-night-website/issues"
+  },
+  "homepage": "https://github.com/Friday-Night-Hacks/hack-night-website#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-filerev": "^2.3.1",
+    "grunt-usemin": "^3.1.1",
+    "mocha": "^2.3.3"
+  }
+}
